@@ -1,0 +1,9 @@
+*~
+*.swp
+*.prof
+.cabal-sandbox/
+cabal.sandbox.config
+.stack-work/
+dist/
+stack.yaml
+Makefile
